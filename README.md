@@ -1,6 +1,7 @@
 # SmartTech.ProductsApp
 
 ## Client App Repo Link
+You can get the Angular project on
 https://github.com/MirnaShaalan/smartTech.ProductsApp.Client
 
 
@@ -14,7 +15,6 @@ https://github.com/MirnaShaalan/smartTech.ProductsApp.Client
 4- change the port number in the clinetApp>services>productService.ts with your Port Number.
 
 5- run the clientApp.
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Api Documentation
 
