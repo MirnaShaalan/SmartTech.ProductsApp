@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SmartTech.ProductsCatalogTask.Domain\SmartTech.ProductsCatalogTask.Domain2.csproj" />
+    <ProjectReference Include="..\SmartTech.ProductsCatalogTask.Reposiitory2\SmartTech.ProductsCatalogTask.Repository.csproj" />
+    <ProjectReference Include="..\SmartTech.ProductsCatalogTask.Repository\SmartTech.ProductsCatalogTask.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\Mirna Shaalan\Downloads\Compressed\SmartTech.ProductsCatalogTask\SmartTech.ProductsCatalogTask.Repository\bin\Debug\netcoreapp3.1\SmartTech.ProductsCatalogTask.Domain.dll
+C:\Users\Mirna Shaalan\Downloads\Compressed\SmartTech.ProductsCatalogTask\SmartTech.ProductsCatalogTask.Repository\obj\Debug\netcoreapp3.1\SmartTech.ProductsCatalogTask.Repository.csprojAssemblyReference.cache
+C:\Users\Mirna Shaalan\Downloads\Compressed\SmartTech.ProductsCatalogTask\SmartTech.ProductsCatalogTask.Repository\obj\Debug\netcoreapp3.1\SmartTech.ProductsCatalogTask.Repository.AssemblyInfoInputs.cache
+C:\Users\Mirna Shaalan\Downloads\Compressed\SmartTech.ProductsCatalogTask\SmartTech.ProductsCatalogTask.Repository\obj\Debug\netcoreapp3.1\SmartTech.ProductsCatalogTask.Repository.AssemblyInfo.cs
+C:\Users\Mirna Shaalan\Downloads\Compressed\SmartTech.ProductsCatalogTask\SmartTech.ProductsCatalogTask.Repository\bin\Debug\netcoreapp3.1\SmartTech.ProductsCatalogTask.Repository.deps.json
+C:\Users\Mirna Shaalan\Downloads\Compressed\SmartTech.ProductsCatalogTask\SmartTech.ProductsCatalogTask.Repository\bin\Debug\netcoreapp3.1\SmartTech.ProductsCatalogTask.Repository.dll
+C:\Users\Mirna Shaalan\Downloads\Compressed\SmartTech.ProductsCatalogTask\SmartTech.ProductsCatalogTask.Repository\bin\Debug\netcoreapp3.1\SmartTech.ProductsCatalogTask.Repository.pdb
+C:\Users\Mirna Shaalan\Downloads\Compressed\SmartTech.ProductsCatalogTask\SmartTech.ProductsCatalogTask.Repository\bin\Debug\netcoreapp3.1\SmartTech.ProductsCatalogTask.Domain.pdb
+C:\Users\Mirna Shaalan\Downloads\Compressed\SmartTech.ProductsCatalogTask\SmartTech.ProductsCatalogTask.Repository\obj\Debug\netcoreapp3.1\SmartTech.ProductsCatalogTask.Repository.csproj.CopyComplete
+C:\Users\Mirna Shaalan\Downloads\Compressed\SmartTech.ProductsCatalogTask\SmartTech.ProductsCatalogTask.Repository\obj\Debug\netcoreapp3.1\SmartTech.ProductsCatalogTask.Repository.dll
+C:\Users\Mirna Shaalan\Downloads\Compressed\SmartTech.ProductsCatalogTask\SmartTech.ProductsCatalogTask.Repository\obj\Debug\netcoreapp3.1\SmartTech.ProductsCatalogTask.Repository.pdb
+C:\Users\Mirna Shaalan\Downloads\Compressed\SmartTech.ProductsCatalogTask\SmartTech.ProductsCatalogTask.Repository\obj\Debug\netcoreapp3.1\SmartTech.ProductsCatalogTask.Repository.csproj.CoreCompileInputs.cache

@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Services\\SmartTech.ProductsCatalogTask.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Domain\\SmartTech.ProductsCatalogTask.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Domain\\SmartTech.ProductsCatalogTask.Domain.csproj",
+        "projectName": "SmartTech.ProductsCatalogTask.Domain",
+        "projectPath": "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Domain\\SmartTech.ProductsCatalogTask.Domain.csproj",
+        "packagesPath": "C:\\Users\\Mirna Shaalan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mirna Shaalan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Repository\\SmartTech.ProductsCatalogTask.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Repository\\SmartTech.ProductsCatalogTask.Repository.csproj",
+        "projectName": "SmartTech.ProductsCatalogTask.Repository",
+        "projectPath": "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Repository\\SmartTech.ProductsCatalogTask.Repository.csproj",
+        "packagesPath": "C:\\Users\\Mirna Shaalan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mirna Shaalan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Domain\\SmartTech.ProductsCatalogTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Domain\\SmartTech.ProductsCatalogTask.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Services\\SmartTech.ProductsCatalogTask.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Services\\SmartTech.ProductsCatalogTask.Services.csproj",
+        "projectName": "SmartTech.ProductsCatalogTask.Services",
+        "projectPath": "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Services\\SmartTech.ProductsCatalogTask.Services.csproj",
+        "packagesPath": "C:\\Users\\Mirna Shaalan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mirna Shaalan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Repository\\SmartTech.ProductsCatalogTask.Repository.csproj": {
+                "projectPath": "C:\\Users\\Mirna Shaalan\\Downloads\\Compressed\\SmartTech.ProductsCatalogTask\\SmartTech.ProductsCatalogTask.Repository\\SmartTech.ProductsCatalogTask.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
