@@ -1,5 +1,9 @@
 # SmartTech.ProductsApp
 
+## Client App Repo Link
+https://github.com/MirnaShaalan/smartTech.ProductsApp.Client
+
+
 ## Deployment steps
 1- make "SmartTech.ProductsCatalogTask.Web.Api" as startup project.
 
