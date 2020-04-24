@@ -89,7 +89,6 @@ export class ProductCreationComponent implements OnInit {
   }
 
   onImageSelected(event) {
-    console.log(event);
     let _this = this;
     let result;
     let file = event.files[0];
