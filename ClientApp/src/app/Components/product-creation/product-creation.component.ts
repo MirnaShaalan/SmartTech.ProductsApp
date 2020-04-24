@@ -28,7 +28,7 @@ export class ProductCreationComponent implements OnInit {
 
   @Output() add = new EventEmitter<any>();
 
-  @ViewChild('ImageUpload') myInputVariable: any;
+  @ViewChild('ImageUpload') ImageUpload: any;
 
   ngOnInit()
   {
@@ -103,7 +103,7 @@ export class ProductCreationComponent implements OnInit {
     reader.onerror = function (error) {
       console.log('Error: ', error);
     };
-    this.myInputVariable.clear();
+    this.ImageUpload.clear();
   }
 
 
@@ -139,7 +139,7 @@ export class ProductCreationComponent implements OnInit {
     this.createProductForm.controls['price'].reset();
     this.createProductForm.controls['photo'].reset();
     this.isEditable=false;
-    this.myInputVariable.clear();
+    this.ImageUpload.clear();
   }
 
   disableSubmitButton()
